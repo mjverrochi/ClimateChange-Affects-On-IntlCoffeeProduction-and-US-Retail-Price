@@ -1,0 +1,11 @@
+With Reddit being one of the more popular websites online, knowing what may or may not affects a post's engagement is valuable information.
+The more engagement on one's post, the more their message is seen. That is one of the reasons why we analyzed over 12,000 reddit posts to 
+see if there were any patterns indicating this.
+
+We analyzed how the title of a post could affect the overall engagement (number of comments). After creating a model predictor, we were able to 
+predict correctly over 55% of the time whether or not a post was in the top 50th percentile of the median of our dataset based on title.
+We found that "just", "like", "new", and "time" are the top 4 words found in all Reddit post titles, 
+for posts in the top 50th percentile of the median of our dataset.
+
+In our continued efforts, we plan to increase our accuracy by looking at further data features including, but not limited to,
+whether a post is tagged as over 18, containg a spoiler, or contains a video.
